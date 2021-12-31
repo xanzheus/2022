@@ -1,8 +1,1 @@
-# HappyNewYear2022 🌟🌟🌟
-
-## Code nguồn:
-  - Happy new year: https://codepen.io/uiswarup/pen/JjojQby
-  - Coding: https://codepen.io/carolineartz/pen/qBOEzQa
-  - CountDown: https://codepen.io/animatedcreativity/pen/GPZMxB
-  
-## `Facebook:` [Trần Ngọc Tiến](https://www.facebook.com/ngoctien.TNT)
+## HappyNewYear2022
